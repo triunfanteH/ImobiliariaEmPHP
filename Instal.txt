@@ -1,0 +1,2 @@
+Basta instalar o banco do arquivo BD.txt
+e usufruir dos arquivos de /Site
